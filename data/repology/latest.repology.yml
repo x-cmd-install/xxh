@@ -1,0 +1,111 @@
+- repo: aur
+  srcname: xxh-appimage
+  binname: xxh-appimage
+  visiblename: xxh-appimage
+  version: 0.8.10
+  origversion: 0.8.10-2
+  status: outdated
+  summary: Bring your favorite shell wherever you go through the ssh.
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - BSD
+- repo: aur
+  srcname: xxh-git
+  binname: xxh-git
+  visiblename: xxh-git
+  version: 0.8.6.r11.g07ac6a3
+  origversion: 0.8.6.r11.g07ac6a3-1
+  status: rolling
+  summary: Bring your favorite shell wherever you go through the ssh
+  maintainers:
+    - soraxas@aur
+  licenses:
+    - BSD
+- repo: homebrew
+  srcname: xxh
+  visiblename: xxh
+  version: 0.8.14
+  origversion: null
+  status: outdated
+  summary: Bring your favorite shell wherever you go through the ssh
+- repo: macports
+  srcname: sysutils/xxh
+  binname: xxh
+  visiblename: xxh
+  version: 0.8.16
+  origversion: null
+  status: newest
+  summary: Bring your favorite shell wherever you go through ssh.
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - BSD
+  categories:
+    - sysutils
+- repo: nix_stable_24_05
+  srcname: xxh
+  visiblename: xxh
+  version: 0.8.12
+  origversion: null
+  status: outdated
+  summary: Bring your favorite shell wherever you go through SSH
+  maintainers:
+    - p3dimaria@hotmail.it
+  licenses:
+    - BSD-2-Clause
+- repo: nix_stable_24_11
+  srcname: xxh
+  visiblename: xxh
+  version: 0.8.12
+  origversion: null
+  status: outdated
+  summary: Bring your favorite shell wherever you go through SSH
+  maintainers:
+    - p3dimaria@hotmail.it
+  licenses:
+    - BSD-2-Clause
+- repo: nix_stable_25_05
+  srcname: xxh
+  visiblename: xxh
+  version: 0.8.14
+  origversion: null
+  status: outdated
+  summary: Bring your favorite shell wherever you go through SSH
+  maintainers:
+    - p3dimaria@hotmail.it
+  licenses:
+    - BSD-2-Clause
+- repo: nix_stable_25_11
+  srcname: xxh
+  visiblename: xxh
+  version: 0.8.14
+  origversion: null
+  status: outdated
+  summary: Bring your favorite shell wherever you go through SSH
+  maintainers:
+    - p3dimaria@hotmail.it
+  licenses:
+    - BSD-2-Clause
+- repo: nix_stable_26_05
+  srcname: xxh
+  visiblename: xxh
+  version: 0.8.16
+  origversion: null
+  status: newest
+  summary: Bring your favorite shell wherever you go through SSH
+  maintainers:
+    - p3dimaria@hotmail.it
+  licenses:
+    - BSD-2-Clause
+- repo: nix_unstable
+  srcname: xxh
+  visiblename: xxh
+  version: 0.8.16
+  origversion: null
+  status: newest
+  summary: Bring your favorite shell wherever you go through SSH
+  maintainers:
+    - p3dimaria@hotmail.it
+  licenses:
+    - BSD-2-Clause
