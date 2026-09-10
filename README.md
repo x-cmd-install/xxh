@@ -21,11 +21,10 @@ x install xxh
 
 - **Latest**: `0.8.16` (2026-04-06)
 - **Last commit**: 2026-06-02
-- **Published**: 2026-04-06T23:11:26Z
 
 ## Popularity
 
-- **Stars**: 6,083 · **Forks**: 123 · **Open issues**: 101 · **Contributors**: 27
+- **Stars**: 6,084 · **Forks**: 123 · **Open issues**: 101 · **Contributors**: 27
 
 ## Totals (cumulative)
 
@@ -66,8 +65,8 @@ Lowest-scoring checks:
 Install metadata for xxh lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `xxh` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/xxh.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/xxh.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:28:35Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:09:24Z._
