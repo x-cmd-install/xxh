@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,085 · **Forks**: 123 · **Open issues**: 101 · **Contributors**: 27
+- **Stars**: 6,087 · **Forks**: 123 · **Open issues**: 101 · **Contributors**: 27
 
 ## Totals (cumulative)
 
@@ -81,4 +81,4 @@ Install metadata for xxh lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:30:44Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:30:08Z._
