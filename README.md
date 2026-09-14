@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,090 · **Forks**: 123 · **Open issues**: 101 · **Contributors**: 27
+- **Stars**: 6,089 · **Forks**: 123 · **Open issues**: 101 · **Contributors**: 27
 
 ## Totals (cumulative)
 
@@ -56,21 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 0 | 0 | 0 | 1 | 0 | 0 |
-| last180d | 2026-03-17 | 2 | 2 | 0 | 1 | 1 | 10 |
-| 360d | 2025-09-18 | 2 | 2 | 0 | 3 | 2 | 11 |
-| last720d | 2024-09-23 | 2 | 2 | 0 | 7 | 5 | 15 |
-
-## Distribution status
-
-Reported by **10** distros on [repology.org](https://repology.org/project/xxh). **3** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.8.14` | ⚠️ outdated |
-| Nix unstable | `0.8.16` | ✅ latest |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 0 | 0 | 0 | 1 | 0 | 0 |
+| last180d | 2026-03-18 | 2 | 2 | 0 | 1 | 1 | 10 |
+| 360d | 2025-09-19 | 2 | 2 | 0 | 3 | 2 | 10 |
+| last720d | 2024-09-24 | 2 | 2 | 0 | 7 | 5 | 15 |
 
 ## Improve this data
 
@@ -81,4 +72,4 @@ Install metadata for xxh lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:40:34Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:46:19Z._
